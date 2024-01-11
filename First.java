@@ -22,7 +22,7 @@ public class First {
             rounds++;
 
             if (tsc >= 30) {
-                System.out.println("Asif completed a round and returned home.");
+                System.out.println("Asif completed taking samples and returned home.");
                 break;
             }
         }
