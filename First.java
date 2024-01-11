@@ -11,7 +11,7 @@ public class First {
         System.out.println("Asif has gone for a walk in the park.");
 
         while (true) {
-            System.out.print("Enter the number of leaf samples collected during this round (or enter 0 to finish): ");
+            System.out.print("Enter the leaf sample count collected during this round (or enter 0 to finish): ");
             int samplesCollected = scanner.nextInt();
 
             if (samplesCollected == 0) {
